@@ -1,0 +1,17 @@
+Ogólne:
+
+Przykłady:
+
+Select SUM(Kwota) from zamowienia INNER JOIN  klient ON (zamowienia.NrKlienta = klient.NrKlienta ) where miasto = 'Nazwa miasta' AND DataZaplaty IS NOT NULL;
+
+
+Select SUM(Kwota) from zamowienia INNER JOIN  klient ON (zamowienia.NrKlienta = klient.NrKlienta ) where miasto = 'Nazwa miasta' AND EXTRACT(MONTH FROM DataZlozenia) = numerMiesiąca AND DataZaplaty IS NOT NULL;
+
+Przykłady:
+
+Select SUM(Kwota) from zamowienia INNER JOIN  klient ON (zamowienia.NrKlienta = klient.NrKlienta ) where miasto = 'Kraków' AND DataZaplaty IS NOT NULL;
+
+
+Select SUM(Kwota) from zamowienia INNER JOIN  klient ON (zamowienia.NrKlienta = klient.NrKlienta ) where miasto = 'Kraków' AND EXTRACT(MONTH FROM DataZlozenia) = 4 AND DataZaplaty IS NOT NULL;
+
+
