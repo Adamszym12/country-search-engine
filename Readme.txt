@@ -13,5 +13,10 @@ Instukcja do uruchomienia na systemach linux:
 	
 	Przejść do  country-search-engine->client->index.html
 	
-	W razie problemów proszę o kontakt na nr tel. 663280798, bądź drogą mailową adamszym12@gmail.com
+	Uwaga: Aby sortować tabelę należy kliknąć na element "th" tabeli,
+	 ze względu na zastosowanie sortowania bąbelkowego w jego podstawowej wersji,
+	 istnieje opóźnienie kilkusekundowe
+	
+	W razie problemów proszę o kontakt na nr tel. 663280798, 
+	bądź drogą mailową adamszym12@gmail.com
 
