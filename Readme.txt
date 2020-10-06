@@ -17,6 +17,5 @@ Instukcja do uruchomienia na systemach linux:
 	 ze względu na zastosowanie sortowania bąbelkowego w jego podstawowej wersji,
 	 istnieje opóźnienie kilkusekundowe
 	
-	W razie problemów proszę o kontakt na nr tel. 663280798, 
-	bądź drogą mailową adamszym12@gmail.com
+	W razie problemów proszę o kontakt drogą mailową adamszym12@gmail.com
 
